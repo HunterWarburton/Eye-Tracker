@@ -1,8 +1,9 @@
 # Eye-Tracker
 
-Eye shape drawn with CSS and controlled with JavaScript. CSS styling shapes html divs into ellipses and circles while javascript finds the mouse position and points the circular eye towards the mouse. Clicking on the eye also removes it.
-
 > https://hunterwarburton.github.io/EyeTracker/Eye%20Tracker.html
+
+## DESCRIPTION
+Eye shape drawn with CSS and controlled with JavaScript. CSS styling shapes html divs into ellipses and circles while javascript finds the mouse position and points the circular eye towards the mouse. Clicking on the eye also removes it.
 
 
 ## Features/Learning Purposes
@@ -28,9 +29,11 @@ Add these elements into the HTML page
 <script src="eyeTracker.js"></script> 
 
 
-## Roadmap of future improvements
+## ROADMAP of FUTURE IMPROVEMENTS
 Code exists in the javascript file to cause the eye object to move around the page, the code has been commented out for current useability and simplicity.
 The next improvement is to allow a button or command to create a new eye on the webpage.
 
+
+## LICENSING
 
 MIT License
